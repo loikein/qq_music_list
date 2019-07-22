@@ -8,3 +8,5 @@ python export.py
 ````
 
 [Spotlistr \- Convert Anything To A Spotify Playlist](https://www.spotlistr.com/#/search/textbox)
+
+（会显示导入失败，检查一下应该已经好了，不要像我一样失败到崩溃了才发现建了两百个一样的歌单）
